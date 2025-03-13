@@ -1,1 +1,0 @@
-# react-rollup-static-example
